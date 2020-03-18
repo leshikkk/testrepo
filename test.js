@@ -1,4 +1,5 @@
 (function () {
 alert("hi");
-alert("hello")
+alert("hello");
+    console.log(1);
 })();
